@@ -61,3 +61,8 @@ I included some snapshots of appointment pages in various states. Execute test w
 ```
 npm test
 ```
+
+
+## Credits
+
+This is a for of [similicious/berlin-buergeramt-bot](https://github.com/similicious/berlin-buergeramt-bot) that notifies you locally, not via Telegram.
